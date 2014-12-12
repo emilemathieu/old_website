@@ -200,8 +200,8 @@ mail($mail,$sujet,$message,$header);
                                  <div class="sexy_line"></div>
                                     <h2>Downloadable Curriculum Vitae</h2>
                                      <ul>
-                                        <li><a class="dotted" href=http://www.emilemathieu.me/data/CV_anglo-saxon_Emile.pdf target="_blank">Curriculum Vitae (International)</a></li>
-                                        <li><a class="dotted" href=http://www.emilemathieu.me/data/CV_Emile.pdf target="_blank">Curriculum Vitae (French)</a></li>
+                                        <li><a class="dotted" href="ressources/CV_Emile_MATHIEU_Eng.pdf" target="_blank">Curriculum Vitae (International)</a></li>
+                                        <li><a class="dotted" href=ressources/CV_Emile_MATHIEU_Fr.pdf target="_blank">Curriculum Vitae (French)</a></li>
                                         
                                     </ul>
 
