@@ -136,22 +136,25 @@ mail($mail,$sujet,$message,$header);
 								
 									<h2>Education</h2>
                                     <ul>
-                                        <li><i>Since 2013 - </i> Student in second grade in the mathematics & computer science department at Ecole Nationale des Ponts et Chaussées ParisTech </li>
+                                        <li><i>2013 & 2014 - </i> Student in first year of master's degree in the department of mathematics & computer science at <i>Ecole Nationale des Ponts et Chaussées</i> (ENPC) </li>
                                         <li> <i>2011-2013 - </i>2-year intensive program preparing for the national competitive exam for entry to engineering schools at Lycée Clémenceau, Nantes </li>
 
-                                        <li> <i>2010 - </i>High school diploma with honors</li>
+                                        <li> <i>2010 - </i>High school diploma with honors, Nantes</li>
                                     </ul>
                                 <div class="sexy_line"></div>
                                 	<h2>Student and work experience</h2>
                                     <ul>
-                                        <li><i>March 2008 - </i>Work experience at AIA (Architects Engineers Associated), Nantes </li>
-                                        <li><i>September 2013 - </i>Work experience in a building site as a worker at ETPO (West Public Works Company)</li>
-                                        <li><i>April-July 2014 - </i>Intership on data mining at a research institute (IFSTTAR) </li>
+                                        <li><i>Since December 2014 - </i><i>Agile</i> development of an application for prediction of bicycle sharing system availability with the company Theodo</li>
+                                        <li><i>May - July 2014 - </i>Internship on data mining and web visualization at IFSTTAR research institute</li>
                                         <li><i>Since March 2014 - </i>Treasurer of the Sport Association of ENPC </li>
+                                        <li><i>March 2013 - </i>C++ project in cryptography</li>
+                                        <li><i>2013 - </i>Responsive and dynamic website developed for a social science course</li>
+                                        <li><i>September 2013 - </i>Work experience in a building site as a worker at ETPO (West Public Works Company)</li>
                                     </ul>
                                 <div class="sexy_line"></div>
                                     <h2>Professional skills</h2> <br/>
-                                    <h3>English - Fluent</h3>
+                                    <h3>French - Native</h3>
+                                    <h3>English - Fluent (TOEIC: 930)</h3>
                                     <ul>
                                         <li><i>July 2007 - </i>Immersion stay in a british family</li>
                                         <li><i>July & August of 2009 & 2010 - </i>Immersion stay in two different american families</li>
