@@ -276,14 +276,14 @@ mail($mail,$sujet,$message,$header);
 				                <p>				
 									<h2><i class="fa fa-pencil"></i>  Written works</h1>
                                 <ul>        
-                                    <li><a class="dotted" href=http://www.emilemathieu.me/data/Emile_MATHIEU_Rapport_Scientifique_light.pdf target="_blank">Science internship report (April-July 2014)</a></li>
+                                    <li><a class="dotted" href=ressources/Emile_MATHIEU_Rapport_Scientifique_light.pdf target="_blank">Science internship report (April-July 2014)</a></li>
                                 </ul>
                                 </p>
                                 <p>
 									<h2><i class="fa fa-cloud"></i>  Online works</h2>
                                     <ul>        
-                                    <li><a class="dotted" href=http://mobilletic.ifsttar.fr/mathieue/atNight/ target="_blank">atNight</a></li>
-                                    <li><a class="dotted" href=http://mobilletic.ifsttar.fr/mathieue/TributeToTobler/ target="_blank">TributeToTobler</a></li>
+                                    <li><a class="dotted" href=http://vlsstats.ifsttar.fr/atNight/ target="_blank">atNight</a></li>
+                                    <li><a class="dotted" href=http://controverses.enpc.fr/2014/angela-mon-amour/ target="_blank">L'allemagne, un modèle économique ?</a></li>
                                     </ul>
                                 </p>
 
