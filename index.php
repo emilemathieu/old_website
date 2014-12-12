@@ -149,7 +149,7 @@ mail($mail,$sujet,$message,$header);
                                         <li><i>Since March 2014 - </i>Treasurer of the Sport Association of ENPC </li>
                                         <li><i>March 2013 - </i>C++ project in cryptography</li>
                                         <li><i>2013 - </i>Responsive and dynamic website developed for a social science course</li>
-                                        <li><i>September 2013 - </i>Work experience in a building site as a worker at ETPO (West Public Works Company)</li>
+                                       <!-- <li><i>September 2013 - </i>Work experience in a building site as a worker at ETPO (West Public Works Company)</li> -->
                                     </ul>
                                 <div class="sexy_line"></div>
                                     <h2>Professional skills</h2> <br/>
