@@ -168,17 +168,20 @@ mail($mail,$sujet,$message,$header);
 
                                     <h3>Computer science skills</h3>
                                     <ul>
-                                        <li>Network Knowledge<i> - Okay</i></li> 
+                    
                                         <li>Microsoft Office<i> - Okay</i></li>
                                         <li>iWork<i> - Good</i></li>
                                         <li>Maple<i> - Good</i></li>
-                                        <li>Matlab<i> - Learning</i></li>
+                                        <li>Matlab<i> - Good</i></li>
                                         <li>C++<i> - Good</i></li>
-                                        <li>Python<i> - Learning</i></li>                                       
-                                        <li>HTML5/CSS3 <i> - Okay</i></li>
-                                        <li>PHP/MySQL<i> - Good</i></li>
-                                        <li>Javascript<i> - Learning</i></li>
+                                        <li>Python<i> - Good</i></li>
                                         <li>R<i> - Good</i></li>
+                                        <li>Network Knowledge<i> - Okay</i></li> 
+                                        <li>HTML5/CSS3 <i> - Good</i></li>
+                                        <li>PHP/MySQL<i> - Good</i></li>
+                                        <li>Javascript<i> - Good</i></li>
+                                        <li>AngularJS<i> - Learning</i></li>
+                                        
                                     </ul>
                                 <div class="sexy_line"></div>
                                     <h2>References</h2>
@@ -186,7 +189,7 @@ mail($mail,$sujet,$message,$header);
                                 <div class="sexy_line"></div>
                                     <h2>Miscellaneous</h2>
                                     <ul>
-                                        <li>Drums player for 10 years</li>
+                                        <li>Drum player for 10 years</li>
                                         <li>Treasurer of the music club at ENPC</li>
                                         <li>Food & wine tasting organizer</li>
                                         <li>Volleyball player, champion Paris school "excellence" tournament</li>
